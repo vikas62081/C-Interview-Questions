@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587278298 source:e:\youtube\c interview questions\program\reversenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

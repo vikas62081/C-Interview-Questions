@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587275753 source:e:\youtube\c interview questions\program\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+

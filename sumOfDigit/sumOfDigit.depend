@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587276323 source:e:\youtube\c interview questions\program\sumofdigit\main.c
+	<stdio.h>
+	<stdlib.h>
+
