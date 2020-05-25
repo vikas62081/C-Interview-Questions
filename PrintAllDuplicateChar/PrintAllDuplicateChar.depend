@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590380640 source:e:\youtube\c interview questions\program\printallduplicatechar\main.c
+	<stdio.h>
+	<stdlib.h>
+

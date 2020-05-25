@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590384753 source:e:\youtube\c interview questions\program\palindromeornot\main.c
+	<stdio.h>
+	<stdlib.h>
+
